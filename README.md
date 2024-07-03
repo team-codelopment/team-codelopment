@@ -25,5 +25,4 @@ team-codelopment/team-codelopment is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-Thanks and regards,
-Team Codelopment 
+©️ (2024) Codelopment. All rights reserved.
